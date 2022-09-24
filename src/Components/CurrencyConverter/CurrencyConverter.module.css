@@ -1,0 +1,36 @@
+.currency__converter {
+    margin-top: 5%;
+    text-align: center;
+}
+
+.currency__converter__container{
+    width:300px;
+    margin: 0 auto;
+    padding: 50px 0 50px 0;
+    border: 1px solid lightgray;
+}
+
+.currency__converter__input{
+    font-size:20px;
+    border:none;
+    border-bottom: 1px solid lightgray;
+    margin-right: 20px;
+    margin-top:10px;
+    width:6em;
+
+}
+
+.currency__converter__input:focus{
+    outline: none;
+    border-bottom: 2px solid blue;
+}
+
+.currency__converter__select{
+    font-size:20px;
+    border: none;
+}
+
+.currency__converter__option{
+    width: 12em;
+}
+
